@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1677773246 source:c:\users\lenovo thinkpad\desktop\tp\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1677773246 c:\users\lenovo thinkpad\desktop\tp\conio2.h
+	<conio.h>
+	<windows.h>
+
+1677773246 source:c:\users\lenovo thinkpad\desktop\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+
+1650157505 source:c:\users\lenovo thinkpad\desktop\tp\untitled1.c
+
